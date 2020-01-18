@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="1020.535" height="569" viewBox="0, 0, 1020.535, 569">
+  <g id="Layer_1">
+    <g>
+      <path d="M90.5,309.5 L708.5,309.5 L708.5,320.5 L90.5,320.5 L90.5,309.5 z" fill="#656565"/>
+      <path d="M90.5,309.5 L708.5,309.5 L708.5,320.5 L90.5,320.5 L90.5,309.5 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+    </g>
+    <g>
+      <path d="M751.036,316 L961.9,316" fill-opacity="0" stroke="#C81919" stroke-width="4"/>
+      <path d="M961.9,316 L958.7,320.8 L971.5,316 L958.7,311.2 z" fill="#C81919" fill-opacity="1" stroke="#C81919" stroke-width="4" stroke-opacity="1"/>
+    </g>
+    <path d="M181.5,68.5 L9.5,560.5" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M382.5,97.5 L236.5,531.5" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M575.5,123.5 L449.5,506.5" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M762.5,137.5 L648.5,492.5" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    <path d="M306,309 L312,309 L312,322 L306,322 L306,309 z" fill="#FDFCFC"/>
+    <path d="M312.5,307.167 C312.5,307.167 178.5,345.167 134.5,441.167" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <path d="M306.5,322.5 C306.5,322.5 180.781,359.366 139.5,452.5" fill-opacity="0" stroke="#000000" stroke-width="3"/>
+    <text transform="matrix(1, 0, 0, 1, 197.421, 40.031)">
+      <tspan x="-71.96" y="10.5" font-family="Avenir-Medium" font-size="35" fill="#656565">Reflector</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 391.183, 48.5)">
+      <tspan x="-51.853" y="-13.5" font-family="Avenir-Medium" font-size="35" fill="#656565">Driven </tspan>
+      <tspan x="-64.505" y="34.5" font-family="Avenir-Medium" font-size="35" fill="#656565">element</tspan>
+    </text>
+    <g>
+      <path d="M781.169,102.068 C786.535,87.697 674.562,104.069 678.531,86.076" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+      <path d="M575.687,102.068 C570.321,87.697 682.294,104.069 678.325,86.076" fill-opacity="0" stroke="#000000" stroke-width="4"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 677.928, 51.218)">
+      <tspan x="-72.607" y="10.5" font-family="Avenir-Medium" font-size="35" fill="#656565">Directors</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 852.268, 381.583)">
+      <tspan x="-93.38" y="-19.083" font-family="Avenir-Medium" font-size="35" fill="#656565">Direction of </tspan>
+      <tspan x="-152.023" y="28.917" font-family="Avenir-Medium" font-size="35" fill="#656565">maximum radiation</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 146.402, 476.5)">
+      <tspan x="-56.403" y="10.5" font-family="Avenir-Medium" font-size="35" fill="#656565">Feeder</tspan>
+    </text>
+  </g>
+</svg>
